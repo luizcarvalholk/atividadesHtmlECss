@@ -1,0 +1,11 @@
+h2{
+    border: 20px;
+}
+h1{
+    color: blue;
+}
+.card{
+    background-color: rgb(178, 178, 255);
+    width: 500px;
+    height: 100px;
+}

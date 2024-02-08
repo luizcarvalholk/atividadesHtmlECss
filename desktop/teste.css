@@ -1,0 +1,25 @@
+button{
+    background-color: pink;
+    height: 20px;
+    width: 10px;
+
+}
+
+button:hover{
+    background-color: blue;
+
+
+}
+a{
+    color: red;
+}
+a:visited{
+    color: orange;
+}
+a:active{
+    color: green;
+}
+
+input.focus{
+    background-color: black;
+}
